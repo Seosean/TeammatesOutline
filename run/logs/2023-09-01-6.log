@@ -1,0 +1,56 @@
+[22:45:41] [Client thread/INFO]: Setting user: Player59
+[22:45:44] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:45:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:modid
+[22:45:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:45:49] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[22:45:49] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:45:49] [Thread-9/INFO]: OpenAL initialized.
+[22:45:50] [Sound Library Loader/INFO]: Sound engine started
+[22:46:02] [Client thread/INFO]: Created: 16x16 textures-atlas
+[22:46:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:modid
+[22:46:03] [Client thread/INFO]: SoundSystem shutting down...
+[22:46:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:46:04] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:46:04] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[22:46:04] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:46:04] [Thread-11/INFO]: OpenAL initialized.
+[22:46:04] [Sound Library Loader/INFO]: Sound engine started
+[22:46:16] [Client thread/INFO]: Created: 512x512 textures-atlas
+[22:46:21] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[22:46:21] [Server thread/INFO]: Generating keypair
+[22:46:21] [Server thread/INFO]: Preparing start region for level 0
+[22:46:22] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:46:24] [Server thread/INFO]: Player59[local:E:3be16c4b] logged in with entity id 38 at (-1448.4750166575927, 4.0, 708.3566661324763)
+[22:46:24] [Server thread/INFO]: Player59 joined the game
+[22:46:27] [Client thread/INFO]: [CHAT] true
+[22:46:27] [Client thread/INFO]: [CHAT] false
+[22:46:29] [Server thread/INFO]: Player59 has just earned the achievement [Taking Inventory]
+[22:46:29] [Client thread/INFO]: [CHAT] Player59 has just earned the achievement [Taking Inventory]
+[22:46:34] [Server thread/INFO]: [Player59: Set own game mode to Creative Mode]
+[22:46:34] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:46:41] [Server thread/INFO]: [Player59: Set own game mode to Survival Mode]
+[22:46:41] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:46:42] [Client thread/INFO]: [CHAT] true
+[22:46:43] [Client thread/INFO]: [CHAT] false
+[22:46:51] [Client thread/INFO]: [CHAT] true
+[22:48:12] [Client thread/INFO]: [CHAT] false
+[22:48:17] [Client thread/INFO]: [CHAT] true
+[22:48:18] [Client thread/INFO]: [CHAT] false
+[22:48:24] [Server thread/INFO]: Saving and pausing game...
+[22:48:24] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:48:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:48:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:48:27] [Client thread/INFO]: [CHAT] true
+[22:48:29] [Client thread/INFO]: [CHAT] false
+[22:48:42] [Client thread/INFO]: [CHAT] true
+[22:48:44] [Client thread/INFO]: [CHAT] false
+[22:48:48] [Client thread/INFO]: [CHAT] true
+[22:48:53] [Client thread/INFO]: [CHAT] false
+[22:48:55] [Client thread/INFO]: [CHAT] true
+[22:49:01] [Client thread/INFO]: [CHAT] false
+[22:49:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[22:49:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[22:49:13] [Server thread/INFO]: Saving and pausing game...
+[22:49:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:49:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:49:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End

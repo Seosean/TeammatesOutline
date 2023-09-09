@@ -1,0 +1,47 @@
+[22:54:53] [Client thread/INFO]: Setting user: Player138
+[22:54:56] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:55:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:modid
+[22:55:01] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:55:01] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[22:55:01] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:55:01] [Thread-9/INFO]: OpenAL initialized.
+[22:55:01] [Sound Library Loader/INFO]: Sound engine started
+[22:55:14] [Client thread/INFO]: Created: 16x16 textures-atlas
+[22:55:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:modid
+[22:55:15] [Client thread/INFO]: SoundSystem shutting down...
+[22:55:15] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:55:15] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:55:16] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[22:55:16] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:55:16] [Thread-11/INFO]: OpenAL initialized.
+[22:55:16] [Sound Library Loader/INFO]: Sound engine started
+[22:55:28] [Client thread/INFO]: Created: 512x512 textures-atlas
+[22:55:38] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[22:55:38] [Server thread/INFO]: Generating keypair
+[22:55:39] [Server thread/INFO]: Preparing start region for level 0
+[22:55:39] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:55:41] [Server thread/INFO]: Player138[local:E:e22f29d1] logged in with entity id 40 at (-1434.0535351836654, 4.0, 723.494225358861)
+[22:55:41] [Server thread/INFO]: Player138 joined the game
+[22:55:44] [Server thread/INFO]: Player138 has just earned the achievement [Taking Inventory]
+[22:55:44] [Client thread/INFO]: [CHAT] Player138 has just earned the achievement [Taking Inventory]
+[22:55:45] [Client thread/INFO]: [CHAT] true
+[22:55:47] [Client thread/INFO]: [CHAT] false
+[22:55:52] [Client thread/INFO]: [CHAT] true
+[22:55:56] [Server thread/INFO]: Saving and pausing game...
+[22:55:56] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:55:56] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:55:56] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:55:59] [Client thread/INFO]: [CHAT] false
+[22:56:06] [Server thread/INFO]: Saving and pausing game...
+[22:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:56:06] [Server thread/INFO]: Stopping server
+[22:56:06] [Server thread/INFO]: Saving players
+[22:56:06] [Server thread/INFO]: Saving worlds
+[22:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:56:08] [Client thread/INFO]: Stopping!
+[22:56:08] [Client thread/INFO]: SoundSystem shutting down...
+[22:56:08] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
