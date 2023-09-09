@@ -1,4 +1,4 @@
-![LEQC6R9I3$6ZF{(P3G9R7T6](https://github.com/Seosean/TeammatesOutline/assets/88036696/be559d02-03c2-4dcf-87c7-2b47dc7ef6eb)
+![20230909194214](https://github.com/Seosean/TeammatesOutline/assets/88036696/2e7c1dfe-084e-4d14-95ce-f257ece590cd)
 
 **只在僵尸末日中运作**
 **ONLY WORK IN ZOMBIES**
